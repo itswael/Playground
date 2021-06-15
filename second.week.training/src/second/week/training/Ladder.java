@@ -16,6 +16,6 @@ public class Ladder {
 	 for(int k=i-1;k>=1;k--) 
 	 System.out.print(k); 
 	 System.out.print("\n"); 
-	 } 
+	 }
 	}
 }

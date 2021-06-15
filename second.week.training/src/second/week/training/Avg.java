@@ -6,7 +6,7 @@ public class Avg {
 		float [] x=new float[n]; 
 		 for(int i=0; i<n; i++) { 
 		 x[i]=Float.parseFloat( args[i]); 
-		 } 
+		 }
 		 float sum=0; 
 		for(int i=0; i<n; i++) 
 		 sum=sum+x[i]; 

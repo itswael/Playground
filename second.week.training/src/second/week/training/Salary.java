@@ -18,7 +18,7 @@ public class Salary {
 	 scan.close();
 	 // Compute the raise using if ...
 	 newSalary = currentSalary + raise; 
-	 // Print the results
+	 // Print the results 
 	  NumberFormat money = 
 	 NumberFormat.getCurrencyInstance(); 
 	  System.out.println(); 

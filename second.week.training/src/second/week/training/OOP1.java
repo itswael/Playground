@@ -13,7 +13,7 @@ public class OOP1 {
 		 s2.city="Mumbai"; 
 		 s2.age=21; 
 		s2.printData(); 
-		 
+		
 		s1.printData(); 
 		s1.m=20; 
 		s2.m=22; 

@@ -23,5 +23,5 @@ public class Bird {
 	 Bird a=new Bird(); 
 	 Bird b=new Bird("maina"); 
 	 Bird c=new Bird(20,"sparrow"); 
-	} 
+	}
 }

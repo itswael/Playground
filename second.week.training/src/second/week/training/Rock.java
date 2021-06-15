@@ -57,7 +57,7 @@ public class Rock {
 		 if (computerPlay.equals("P")) 
 			 System.out.println("scissors cut paper. You win!!"); 
 		 else { 
-			 // ... Fill in rest of code
+			 // ... Fill in rest of code 
 			 System.out.println("Rock crushes scissors. Computer wins!!");
 			 }
 		 }

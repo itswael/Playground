@@ -13,7 +13,6 @@ public class GoodFan {
 		mode.run();
 	}
 }
-
 class SelectedMode{
 	Mode m;
 	public void run() {

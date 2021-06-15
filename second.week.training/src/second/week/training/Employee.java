@@ -10,7 +10,7 @@ public class Employee {
 	 } 
 	 void info(){ 
 		 System.out.println("Id: "+empId+" Name: "+empName); 
-		 } 
+		 }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -19,7 +19,7 @@ package second.week.training;
 	public void printData() { 
 	 System.out.print("p = "+p); 
 	 System.out.println(" q = "+q); 
-	} 
+	}
 	} 
 	public class ConstructorOverlaoding { 
 	 public static void main(String args[]) { 
