@@ -1,4 +1,4 @@
-package introToJava;
+package second.week.training;
 
  class Cs {
 	int p,q; 

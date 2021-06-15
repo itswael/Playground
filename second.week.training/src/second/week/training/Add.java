@@ -1,4 +1,4 @@
-package introToJava;
+package second.week.training;
 
 public class Add {
 	public static void main(String args[]) 

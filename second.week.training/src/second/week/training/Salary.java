@@ -1,4 +1,4 @@
-package introToJava;
+package second.week.training;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
